@@ -1,0 +1,1 @@
+scp  -r guest@data01.offline_trans.tc.ted:/search/guest/offline_translate_for_android /home/albertsnow/Documents/SDK-Translate-Machine/$1
